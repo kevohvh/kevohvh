@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:3A3A3A&text=Akodee&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:3A3A3A&text=Kevo&fontColor=FFFFFF&fontSize=65&animation=fadeIn&fontAlignY=40"/>
 
 ### Developer • Software Enthusiast • Interested in software and systems
 
