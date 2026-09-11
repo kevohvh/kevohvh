@@ -15,7 +15,7 @@
 ```javascript
 class Developer {
     constructor() {
-        this.name = "Akodee";
+        this.name = "Kevo";
         this.role = "Developer";
         this.location = "Argentina";
         this.languages = [
